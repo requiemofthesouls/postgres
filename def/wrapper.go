@@ -5,7 +5,7 @@ import (
 
 	cfgDef "github.com/requiemofthesouls/config/def"
 	"github.com/requiemofthesouls/container"
-	postgres2 "postgres"
+	postgres2 "github.com/requiemofthesouls/postgres"
 )
 
 const (
